@@ -62,7 +62,7 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: Master of Information Technology & Master of Information Technology Management
+  - area: Master of Information Technology & Innovation Management
     institution: The University of Sydney
     date_start: 2019-09-01
     date_end: 2022-03-01
